@@ -17,3 +17,10 @@ LockBox Bank is a comprehensive banking app that offers a simple and secure onli
 - Vanilla JavaScript
 - Tailwind CSS
 - HTML
+
+## TODO
+
+- ### Create account
+- Build create account form
+- Refactor login form to check created user stored in session storage
+- Build logout function
